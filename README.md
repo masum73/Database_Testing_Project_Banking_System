@@ -124,4 +124,4 @@ This project shows how a **QA Engineer** can ensure data is:
 
 ---
 
-📅 **Last Updated:** 2025-09-20
+**Last Updated:** 2025-09-20
